@@ -1,0 +1,2 @@
+# customize-vue-chart-axis
+A quick start Vue project that shows how to customize a Syncfusion Vue chart axis to make it more informative.. This project also includes a code snippet to customize a chart axis with properties like axis crossing, tick lines, and grid lines, add multiple axes to a chart, place an axis opposite from its original position, and inverse the chart axis to display the highest value of the axis near the origin.
